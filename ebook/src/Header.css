@@ -1,0 +1,17 @@
+.Navbar{
+  background-image: linear-gradient(to right, #ff871c, #fc8923, #f98b2a, #f78d30, #f48f36, #f49038, #f3923b, #f3933d, #f5943d, #f8963e, #fa973e, #fd983e);
+  color: white;
+}
+@media screen and (max-width: 991px) {
+    .hide-on-laptop {
+      visibility: hidden;
+      display: none;
+    }
+  }
+
+  @media screen and (min-width: 992px) {
+    .hide-on-mobile {
+      visibility: hidden;
+      display: none;
+    }
+  }

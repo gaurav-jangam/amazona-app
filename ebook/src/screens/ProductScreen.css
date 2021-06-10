@@ -1,0 +1,26 @@
+.ps{
+    margin: 3rem;
+    padding: 1rem;
+    background-color: white;
+    border-radius: 0rem 2rem ;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.274), 0 6px 20px 0 rgba(22, 18, 18, 0.527);
+
+}
+img.large {
+    width: 10rem;
+  }
+  /* Alert */
+.success {
+    color: #20a020;
+  }
+  .error {
+    color: #a02020;
+  }
+  ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+  }
+  li {
+    margin-top: 1rem;
+  }
